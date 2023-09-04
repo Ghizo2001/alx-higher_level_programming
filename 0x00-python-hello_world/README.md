@@ -1,1 +1,1 @@
-0x00. Python - Hello, World
+this is python task
