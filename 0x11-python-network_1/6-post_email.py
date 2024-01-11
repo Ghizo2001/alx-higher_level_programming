@@ -1,5 +1,5 @@
-
-st email """
+#!/usr/bin/python3
+"""st email """
 import requests
 import sys
 

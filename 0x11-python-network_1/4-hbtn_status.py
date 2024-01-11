@@ -1,4 +1,5 @@
-
+#!/usr/bin/python3
+"""
 n script that fetches an URL with requests package
 """
 import requests

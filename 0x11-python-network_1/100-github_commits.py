@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+"""
 sts the 10 most recent commits on a given GitHub repository.
 """
 import sys
